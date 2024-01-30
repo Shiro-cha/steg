@@ -1,0 +1,16 @@
+{
+  "name": "hello-bun",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/stegcloak": "^1.0.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "jimp": "^0.22.10",
+    "stegcloak": "^1.1.1"
+  }
+}
